@@ -1,0 +1,7 @@
+*:before, *:after {
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #58b8be;
+}
