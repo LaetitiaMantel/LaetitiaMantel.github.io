@@ -2,6 +2,14 @@
     box-sizing: border-box;
 }
 
-.header {
-    background-color: #58b8be;
+.section1 {
+    background: linear-gradient(to bottom right, #a2d0d6, #bfe198);
+}
+
+p {
+    font-family: quicksand;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: quicksand700;
 }
